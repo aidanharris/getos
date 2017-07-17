@@ -8,7 +8,7 @@
     "posttest": "standard",
     "integration": "node tests/runTest.js",
     "standard-fix": "standard --fix",
-    "postinstall": "node postinstall.js"
+    "postinstall": "nodejs postinstall.js"
   },
   "repository": {
     "type": "git",
